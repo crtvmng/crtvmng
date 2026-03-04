@@ -52,7 +52,6 @@ namespace crtvmng {
 }   // namespace crtvmng
 ```
 
----
 
 <!-- ░░ TECH STACK ░░ -->
 <div align="center">
@@ -93,10 +92,6 @@ namespace crtvmng {
 <div align="center">
 
 ### ◈ `[ STATS ]` ◈
-
-<img src="https://github-readme-stats.vercel.app/api?username=crtvmng&show_icons=true&hide_border=true&bg_color=0a0020&title_color=00e5ff&icon_color=bf80ff&text_color=e0aaff&ring_color=9b30ff" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crtvmng&layout=compact&hide_border=true&bg_color=0a0020&title_color=00e5ff&text_color=e0aaff" height="155"/>
-
 <br/>
 
 ![Streak](https://streak-stats.demolab.com?user=crtvmng&hide_border=true&background=0a0020&ring=9b30ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=bf80ff&dates=7a5fa0&currStreakNum=ffffff&sideNums=e0aaff&stroke=2d0060)
@@ -138,7 +133,7 @@ namespace crtvmng {
 
 <br/>
 
-`// "why be normal when you can be kuromi-coded?" 🖤🎀`
+`// "why be normal?" 🖤🎀`
 
 <br/>
 
