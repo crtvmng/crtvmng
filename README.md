@@ -88,22 +88,6 @@ namespace crtvmng {
 
 ---
 
-<!-- ░░ STATS ░░ -->
-<div align="center">
-
-### ◈ `[ STATS ]` ◈
-<br/>
-
-![Streak](https://streak-stats.demolab.com?user=crtvmng&hide_border=true&background=0a0020&ring=9b30ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=bf80ff&dates=7a5fa0&currStreakNum=ffffff&sideNums=e0aaff&stroke=2d0060)
-
-<br/>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=crtvmng&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/crtvmng)
-
-</div>
-
----
-
 <!-- ░░ ACTIVITY GRAPH ░░ -->
 <div align="center">
 
