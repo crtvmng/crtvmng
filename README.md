@@ -122,9 +122,4 @@ namespace crtvmng {
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9b30ff,50:00e5ff,100:9b30ff&height=2" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0020,25:1a0040,50:00183d,75:001030,100:0a0020&height=90&section=footer" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:9b30ff,100:00e5ff&height=2" />
-
 </div>
