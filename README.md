@@ -1,131 +1,151 @@
-<!-- Header -->
+<!-- ░░ HEADER ░░ -->
 <div align="center">
 
-```
- ██████╗██████╗ ████████╗██╗   ██╗███╗   ███╗███╗   ██╗ ██████╗ 
-██╔════╝██╔══██╗╚══██╔══╝██║   ██║████╗ ████║████╗  ██║██╔════╝ 
-██║     ██████╔╝   ██║   ██║   ██║██╔████╔██║██╔██╗ ██║██║  ███╗
-██║     ██╔══██╗   ██║   ╚██╗ ██╔╝██║╚██╔╝██║██║╚██╗██║██║   ██║
-╚██████╗██║  ██║   ██║    ╚████╔╝ ██║ ╚═╝ ██║██║ ╚████║╚██████╔╝
- ╚═════╝╚═╝  ╚═╝   ╚═╝     ╚═══╝  ╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,40:2d0060,70:0d003a,100:001833&height=3" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=⚡+Electronics+Engineering+Undergrad;🖤+C%2FC%2B%2B+%26+Embedded+Systems+Dev;🔮+PCB+Designer+%7C+Altium+%7C+CAD;✨+kuromi+mode%3A+ON)
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:9b30ff,100:00e5ff&height=130&text=CRTVMNG&fontColor=00e5ff&fontSize=72&fontAlign=50&fontAlignY=55&desc=%E3%80%90%20ELECTRONICS%20ENGINEER%20%2F%20EMBEDDED%20DEV%20%E3%80%91&descSize=14&descFontColor=bf80ff&descAlignY=80&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:6a0dad&height=120&section=header&text=crtvmng&fontColor=e0aaff&fontSize=40&fontAlignY=70&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9b30ff,50:00e5ff,100:9b30ff&height=2" />
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=>>+initializing+crtvmng.exe...;>>+C%2FC%2B%2B+%7C+Embedded+Systems+%7C+PCB+Design;>>+Altium+Designer+%7C+MATLAB+%7C+CAD;>>+WARNING%3A+kuromi_mode+%3D+TRUE+%F0%9F%96%A4)
 
 </div>
 
 ---
 
-<!-- About Me -->
+<!-- ░░ WHOAMI ░░ -->
 <div align="center">
 
-## 🖤✨ `whoami` ✨🖤
+### ◈ `[ SYS_INFO ]` ◈
 
 </div>
 
 ```cpp
-class CreativeMango {
-private:
-    std::string name     = "Creative Mango";
-    std::string handle   = "@crtvmng";
-    std::string pronouns = "he/him";
-    std::string degree   = "Electronics Engineering — Undergrad";
+// > crtvmng/profile.cpp — last modified: NOW
 
-public:
-    std::vector<std::string> currently_doing = {
-        "Designing circuits & PCBs in Altium Designer",
-        "Writing embedded C/C++ for microcontrollers",
-        "Building cool side projects late at night",
-        "Powered by spite and energy drinks 🖤"
+#include <engineer.h>
+#include <kuromi_energy.h>
+
+namespace crtvmng {
+
+    struct Profile {
+        const char* name     = "Creative Mango";
+        const char* handle   = "@crtvmng";
+        const char* pronouns = "he/him";
+        const char* status   = "Electronics Engineering Undergrad";
+
+        std::vector<const char*> stack = {
+            "C / C++  — embedded firmware & systems",
+            "Altium Designer  — schematic & PCB layout",
+            "MATLAB / Simulink  — signal processing & simulation",
+            "CAD (AutoCAD / SolidWorks)  — mechanical design",
+            "Python / JS  — scripting & side projects",
+        };
+
+        const char* spirit  = "Kuromi 🖤🎀";
+        bool dark_mode      = true;   // non-negotiable
+        bool coffee_running = true;   // always
     };
 
-    std::string spirit_animal = "Kuromi 🖤🎀";
-    bool        dark_mode     = true; // always
-};
+}   // namespace crtvmng
 ```
 
 ---
 
-<!-- Tech Stack -->
+<!-- ░░ TECH STACK ░░ -->
 <div align="center">
 
-## 🔮 Tech Arsenal
+### ◈ `[ TECH_STACK ]` ◈
 
-### 💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-9B59B6?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**`// Programming`**
 
-### ⚡ Embedded & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%239B59B6.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2300e5ff.svg?style=flat-square&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
-### 🛠️ EDA & CAD
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51837?style=for-the-badge&logo=autodesk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+**`// Embedded & Hardware`**
 
-### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=flat-square&logo=mathworks&logoColor=white)
+
+**`// EDA & CAD`**
+
+![Altium](https://img.shields.io/badge/Altium_Designer-%23A5915F.svg?style=flat-square&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-%23314CB0.svg?style=flat-square&logo=kicad&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E51837.svg?style=flat-square&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=flat-square&logo=dassaultsystemes&logoColor=white)
+
+**`// Data & Tools`**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-<!-- GitHub Stats -->
+<!-- ░░ STATS ░░ -->
 <div align="center">
 
-## 📊 Stats & Activity
+### ◈ `[ STATS ]` ◈
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=crtvmng&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0015&title_color=c77dff&icon_color=9b59b6&text_color=e0aaff"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crtvmng&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0015&title_color=c77dff&text_color=e0aaff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=crtvmng&show_icons=true&hide_border=true&bg_color=0a0020&title_color=00e5ff&icon_color=bf80ff&text_color=e0aaff&ring_color=9b30ff" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crtvmng&layout=compact&hide_border=true&bg_color=0a0020&title_color=00e5ff&text_color=e0aaff" height="155"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=crtvmng&theme=midnight-purple&hide_border=true&background=0D0015&ring=9B59B6&fire=C77DFF&currStreakLabel=E0AAFF&sideLabels=E0AAFF&dates=9B59B6&currStreakNum=C77DFF&sideNums=C77DFF)
+![Streak](https://streak-stats.demolab.com?user=crtvmng&hide_border=true&background=0a0020&ring=9b30ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=bf80ff&dates=7a5fa0&currStreakNum=ffffff&sideNums=e0aaff&stroke=2d0060)
+
+<br/>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=crtvmng&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/crtvmng)
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
+<!-- ░░ ACTIVITY GRAPH ░░ -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=crtvmng&bg_color=0d0015&color=c77dff&line=9b59b6&point=e0aaff&area=true&hide_border=true)](https://github.com/crtvmng)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=crtvmng&bg_color=0a0020&color=00e5ff&line=9b30ff&point=ffffff&area_color=2d0060&area=true&hide_border=true)](https://github.com/crtvmng)
 
 </div>
 
 ---
 
-<!-- Fun section -->
+<!-- ░░ STATUS ░░ -->
 <div align="center">
 
-## 🖤 Currently...
+### ◈ `[ CURRENT_STATUS ]` ◈
 
-| 🎧 Vibe | 🔧 Building | 📖 Learning |
+| `🎧 AUDIO` | `⚙️ BUILD` | `📡 LEARNING` |
 |:---:|:---:|:---:|
-| Dark ambient + metal | Something with microcontrollers | RTOS & bare-metal |
+| dark ambient + metal | something with microcontrollers | RTOS & bare-metal |
 
 </div>
 
 ---
 
-<!-- Visitor counter & footer -->
+<!-- ░░ FOOTER ░░ -->
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=crtvmng&color=9b59b6&style=for-the-badge&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=crtvmng&color=9b30ff&style=flat-square&label=SYSTEM+UPTIME+%28visitors%29)
 
 <br/>
 
-*"Why be normal when you can be a Kuromi-coded engineer?"* 🖤🎀
+`// "why be normal when you can be kuromi-coded?" 🖤🎀`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:4b0082,100:1a0033&height=100&section=footer" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9b30ff,50:00e5ff,100:9b30ff&height=2" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0020,25:1a0040,50:00183d,75:001030,100:0a0020&height=90&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:9b30ff,100:00e5ff&height=2" />
 
 </div>
